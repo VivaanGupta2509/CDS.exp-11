@@ -203,4 +203,24 @@ int main()
 ```
 
 ## Outputs - 
+### A -
+<img width="325" alt="Screenshot 2024-09-01 at 2 25 45 AM" src="https://github.com/user-attachments/assets/265c17f9-6dad-453a-bb9b-c7319c3b9078">
+
+### B -
+<img width="344" alt="Screenshot 2024-09-01 at 2 26 17 AM" src="https://github.com/user-attachments/assets/d9d223e1-3196-412f-a1c9-d5599fcba35e">
+
+### C - 
+<img width="335" alt="Screenshot 2024-09-01 at 2 26 40 AM" src="https://github.com/user-attachments/assets/2d5f4f88-b30e-441b-a31b-ea8be6c4b606">
+
+### D - 
+<img width="374" alt="Screenshot 2024-09-01 at 2 28 10 AM" src="https://github.com/user-attachments/assets/84e99abe-8677-4513-9de4-ebe758e641ee">
+
+### E - 
+<img width="326" alt="Screenshot 2024-09-01 at 2 28 56 AM" src="https://github.com/user-attachments/assets/27988e5a-a069-402f-a641-c35072a9d448">
+
+## Conclusion - 
+&#8594; We learnt about OOP in C++. <br>
+&#8594; We learnt the use case of classes and objects in C++. <br>
+*******
+<br>
 
